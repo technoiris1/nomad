@@ -87,3 +87,4 @@ https://a360.co/42IiZWg
 
 Day 21 - 
 Started getting the remaining parts!
+I'll start adding the images of the build once i get it in the shape
