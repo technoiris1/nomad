@@ -26,5 +26,6 @@ Time: ~3 hours
 ![Initial BOM](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2c8996a9d5132e9d5850e585b9bc4363e6546221_screenshot_2025-04-08_at_1.29.18___pm.png)
 
 Completed the frame design, this took a lot of time as I had to iterate through the design a lot of times, this is because my printer's whole thing depends on the frame. Found a lot of problems in folding it and found even more solutions. For now the base design of the frame is done, minor changes will be there as I iterate through the design more. 
-![Frame v1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9c66486f2f446b9a6c1975bf1d7b179366465401_screenshot_2025-04-08_at_1.26.23___pm.png)
 Time: ~9 hours
+![Frame v1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9c66486f2f446b9a6c1975bf1d7b179366465401_screenshot_2025-04-08_at_1.26.23___pm.png)
+
