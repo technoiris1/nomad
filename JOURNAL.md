@@ -1,7 +1,7 @@
 Made by @Manan
 Repository link - https://github.com/Manan-Coder/nomad
 
-Total hours so far - 21 hours
+Total hours so far - 25 hours
 
 Day 1 - 
 Did some research and found the suitable parts for now. Made some rough sketches to visualize the working and stared with cad-ing.
@@ -29,3 +29,10 @@ Completed the frame design, this took a lot of time as I had to iterate through 
 Time: ~9 hours
 ![Frame v1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9c66486f2f446b9a6c1975bf1d7b179366465401_screenshot_2025-04-08_at_1.26.23___pm.png)
 
+
+Completed the y-gantry, bed will ride on it, but the gantry itself will ride a clamp on a telescopic rail. This way it can be pulled out when to be used and pushed in when to be folded. This thing can be folded into a suitcase on paper right now, but god knows.....
+Time: ~4 hours
+![y-gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/702417c0b1abe1ecdf2df733e5866336d15716f0_screenshot_2025-04-08_at_11.02.15___pm.png)
+![y-gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5786f6e79b66d5f36c52efe311e39678eb95b1f_screenshot_2025-04-08_at_11.03.51___pm.png)
+![y-gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8fa1eea6b971f5d597952522e6bfb07043a48503_screenshot_2025-04-08_at_11.04.09___pm.png)
+![y-gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c8d21e9dd2db6eab7e813b6be7cf5c46cdea6c72_screenshot_2025-04-08_at_11.04.24___pm.png)
