@@ -44,6 +44,12 @@ I polished the y-gantry and completed the x and z-gantry today, this included a 
 Also I tried taking a few cinematic shots for the documentary today (in most of the cases i failed brutally), but yeah this project seems okay-ish now. The biggest thing i've built so far lol.
 Time: ~11 hours
 Some images - 
+
+
+
+
+
+
 ![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/786f7eddd80fc5b4dbad53ecc9edc8cd382be29c_screenshot_2025-04-10_at_12.37.20___am.png)
 ![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2cd2101b112147227ed1f435383768eb31d72367_screenshot_2025-04-10_at_12.37.33___am.png)
 ![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4634a143609dfb7ed080a96cb17b3b51e971642_screenshot_2025-04-10_at_12.37.42___am.png  )
