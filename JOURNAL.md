@@ -1,7 +1,7 @@
 Made by @Manan
 Repository link - https://github.com/Manan-Coder/nomad
 
-Total hours so far - 25 hours
+Total hours so far - 36 hours
 
 Day 1 - 
 Did some research and found the suitable parts for now. Made some rough sketches to visualize the working and stared with cad-ing.
@@ -36,3 +36,19 @@ Time: ~4 hours
 ![y-gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5786f6e79b66d5f36c52efe311e39678eb95b1f_screenshot_2025-04-08_at_11.03.51___pm.png)
 ![y-gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8fa1eea6b971f5d597952522e6bfb07043a48503_screenshot_2025-04-08_at_11.04.09___pm.png)
 ![y-gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c8d21e9dd2db6eab7e813b6be7cf5c46cdea6c72_screenshot_2025-04-08_at_11.04.24___pm.png)
+
+
+Day 4 - 
+Completed the whole mechanism and structure of the printer, now just left with the protective outer abs sheet covering to give it a suitcase like look and save it from being damaged.
+I polished the y-gantry and completed the x and z-gantry today, this included a lot of restructuring of the frame but atleast its done now, now tomorrow I can simply complete the protective covering, BOM, readme and put an end to the software part of this project. Now the real fun begins, HARDWARE!!!!
+Also I tried taking a few cinematic shots for the documentary today (in most of the cases i failed brutally), but yeah this project seems okay-ish now. The biggest thing i've built so far lol.
+Time: ~11 hours
+Some images - 
+![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/786f7eddd80fc5b4dbad53ecc9edc8cd382be29c_screenshot_2025-04-10_at_12.37.20___am.png)
+![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2cd2101b112147227ed1f435383768eb31d72367_screenshot_2025-04-10_at_12.37.33___am.png)
+![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4634a143609dfb7ed080a96cb17b3b51e971642_screenshot_2025-04-10_at_12.37.42___am.png  )
+![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4091cc4e00434afbdca679756dc1356a00137cf7_screenshot_2025-04-10_at_12.49.43___am.png)
+![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5d859d0b26b11d5cb003a4c648f177b40c5908e5_screenshot_2025-04-10_at_12.49.57___am.png)
+![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/906b6fcda0b9dafeb8eacc6edc1b8972df743c90_screenshot_2025-04-10_at_12.50.24___am.png)
+
+
