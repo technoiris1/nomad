@@ -43,6 +43,7 @@ Completed the whole mechanism and structure of the printer, now just left with t
 I polished the y-gantry and completed the x and z-gantry today, this included a lot of restructuring of the frame but atleast its done now, now tomorrow I can simply complete the protective covering, BOM, readme and put an end to the software part of this project. Now the real fun begins, HARDWARE!!!!
 Also I tried taking a few cinematic shots for the documentary today (in most of the cases i failed brutally), but yeah this project seems okay-ish now. The biggest thing i've built so far lol.
 Time: ~11 hours
+<br>
 Some images - 
 
 
