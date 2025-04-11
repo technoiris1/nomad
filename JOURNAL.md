@@ -1,7 +1,7 @@
 Made by @Manan
 Repository link - https://github.com/Manan-Coder/nomad
 
-Total hours so far - 36 hours
+Total hours so far - 43 hours
 
 Day 1 - 
 Did some research and found the suitable parts for now. Made some rough sketches to visualize the working and stared with cad-ing.
@@ -57,5 +57,20 @@ Some images -
 ![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4091cc4e00434afbdca679756dc1356a00137cf7_screenshot_2025-04-10_at_12.49.43___am.png)
 ![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5d859d0b26b11d5cb003a4c648f177b40c5908e5_screenshot_2025-04-10_at_12.49.57___am.png)
 ![complete](https://hc-cdn.hel1.your-objectstorage.com/s/v3/906b6fcda0b9dafeb8eacc6edc1b8972df743c90_screenshot_2025-04-10_at_12.50.24___am.png)
+
+
+Day 5 and 6 - 
+I was quite a lil ill on the 5th day so i didnt work much, i've finished the cad model tho, i was left with the outer protective frame which will save my printer from jerks and shocks. I earlier decided to use ABS plastic sheets but making a budget printer in this economy....... so finally inflation made humans use wood again, thats right, imm using wooden boards as my proectice layering now :p hmm im certainly in the budget(plss goddd plss i beg you).
+Hours taken: ~7
+Alright so the final renders of the printer looks smth like this - 
+**drumrolls*
+<br>
+![final](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a1d09003bf3c47607def2396e77064e6d62d883b_screenshot_2025-04-11_at_11.51.11___pm.png)
+![final](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b1560f93530c57f3737e558d750d972c38603f64_screenshot_2025-04-11_at_11.51.28___pm.png)
+![final](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bdfddca92566a885b01bacecbaa2d7d5aa4e6edb_screenshot_2025-04-11_at_10.05.48___pm.png)
+![final](https://hc-cdn.hel1.your-objectstorage.com/s/v3/367b481931c493762d4d48582883398f5fc460b2_screenshot_2025-04-11_at_10.00.56___pm.png)
+![final](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b038b458193667f80e73cd6cd16a6253816697df_screenshot_2025-04-11_at_11.50.57___pm.png)
+
+
 
 
