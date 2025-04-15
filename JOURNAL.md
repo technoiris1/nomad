@@ -77,3 +77,5 @@ Alright so the final renders of the printer looks smth like this -
 Day 7 - 
 Completed the BOM and the readme. Shipped the project.
 
+Day 8 - 
+Got the 300$ grant!!!!! time to order parts and bring this thing to life.
