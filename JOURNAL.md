@@ -74,3 +74,6 @@ Alright so the final renders of the printer looks smth like this -
 
 
 
+Day 7 - 
+Completed the BOM and the readme. Shipped the project.
+
