@@ -5,7 +5,7 @@
 
 # nomad 
 
-Yo yo yo! Presenting **Nomad** — a 3D printer that **turns into a suitcase** and can be carried anywhere.  
+Hey y'all! presenting you **Nomad** — a 3D printer that **turns into a suitcase** and can be carried anywhere.  
 Yeah, you heard that right. A *foldable* 3D printer.  
 So… here we go!
 
@@ -18,7 +18,7 @@ So… here we go!
 
 ## What's Nomad?
 
-**Nomad** is a unique Cartesian-style 3D printer with a folding mechanism that transforms it into a compact suitcase-sized form. It’s built to be *portable*, *functional*, and just plain cool.
+**Nomad** is a Cartesian-style 3D printer with a folding mechanism that transforms it into a compact suitcase-sized form. It’s built to be *portable*, *functional*, and just plain cool.
 
 ### In its resting/original state:
 
