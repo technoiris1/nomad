@@ -5,7 +5,7 @@
 
 # nomad 
 
-Hey y'all! presenting you **Nomad** — a 3D printer that **turns into a suitcase** and can be carried anywhere.  
+Hey y'all! presenting you **Nomad** - a 3D printer that **turns into a suitcase** and can be carried anywhere.  
 Yeah, you heard that right. A *foldable* 3D printer.  
 So… here we go!
 
@@ -58,8 +58,8 @@ This project wouldn't have been possible without **Hack Club**.
 
 Not just the financial support (which was HUGE), but also the *environment* and *inspiration* from Hack Club’s awesome community.
 
-Massive shoutout to **YSWS Infill** — the event that encouraged building unique and wild 3D printers.  
-And to **Alex (@qcoral)** for organizing it all — you’re the GOAT. 🐐
+Massive shoutout to **YSWS Infill** - the event that encouraged building unique and wild 3D printers.  
+And to **Alex (@qcoral)** for organizing it all - you’re the GOAT. 🐐
 
 ---
 
