@@ -84,3 +84,6 @@ Day 20 -
 Sorry people for not being active on this project, I was having some really important exams and also some other things. Now I swear to be active, I've got almost all the parts and will get more in the coming week. till then you can fiddle with the cad models :)
 https://a360.co/3YjHCX5
 https://a360.co/42IiZWg
+
+Day 21 - 
+Started getting the remaining parts!
