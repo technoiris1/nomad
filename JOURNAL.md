@@ -88,3 +88,10 @@ https://a360.co/42IiZWg
 Day 21 - 
 Started getting the remaining parts!
 I'll start adding the images of the build once i get it in the shape, really excited!
+
+
+Day 30 - 
+Got all the parts a week ago but was a lil too busy due to exams, time to cook now :fire:
+
+here's a sneak peek -
+![parts](/imgs/parts.jpeg)
