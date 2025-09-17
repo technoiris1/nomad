@@ -97,4 +97,4 @@ here's a sneak peek -
 ![parts](/imgs/parts.jpeg)
 
 
-## Build Journal
+# Build Journal
