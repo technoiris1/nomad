@@ -112,3 +112,11 @@ ok so before this i made some really slow turtle like process, so like i set up 
 so today i made this extruder setup with 3d printed bracket and even the screws and tnuts are 3d printed, isnt that cool?
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ccdaddb75bc4d16c617b8c59f4f0a58e7e344364_img_20250917_180349319__1_.jpg)
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/efe60886d20e12e73e9163732ce4408b00bb9fab_img_20250917_180356047__1_.jpg)
+
+
+so, after making that extruder thing properly, i printed a simple stepper motor mount, as they were really expensive at the online marketplace and i didnt have that much money to spend on them, so i made them myself.
+So everything was going fine but the thing is that the motor has to be screwed on the mount and those screws come with the mount and not the motor, so i had no screws for it. I printed some m5 screws to screw the mount itself so i thought i can print some m3 switches too, but oh boy, the thing is that they are really thin compared to m5 ones and my printer is an open one so they warped, now i gotta go to some local shop in the morning and get some m3 screws.
+(also i forgot to tell that one of those screws broke while screwed into two so now i gotta figure out to to get it out :sob:, some images of this testament )
+![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/daf574b90a1228c56e2ed8afdb2a3ae47c94a49b_img_20250918_005536.jpg)
+![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f04b1cec2d9a26fd08602bf7714ef10daa74339f_img_20250918_005615.jpg)
+![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ae76c14ad8fa4410dda61a36cf5b1aab35527eac_img_20250918_005632.jpg)
