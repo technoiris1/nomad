@@ -101,3 +101,14 @@ here's a sneak peek -
 
 
 # Build Journal
+
+
+ok ok so now I swear to god im going to be consistent with build and i set a goal to get this printer printing things within next two weeks.
+
+## day 1
+
+ok so before this i made some really slow turtle like process, so like i set up some basic things and made some clamps for stepper motors and a few other things, cuz like they ones from the marketplaces were really expensive for broke me, so i made some wood working and glued the wooden parts together, and in middle out of nowhere i got a 3d printer, yeah, so i got a bambu labs a1 mini and that made my life a lot easier. I made a lot of parts off it and yeah life is good now.
+
+so today i made this extruder setup with 3d printed bracket and even the screws and tnuts are 3d printed, isnt that cool?
+![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ccdaddb75bc4d16c617b8c59f4f0a58e7e344364_img_20250917_180349319__1_.jpg)
+![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/efe60886d20e12e73e9163732ce4408b00bb9fab_img_20250917_180356047__1_.jpg)
