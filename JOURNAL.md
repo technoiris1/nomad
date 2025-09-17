@@ -120,3 +120,8 @@ So everything was going fine but the thing is that the motor has to be screwed o
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/daf574b90a1228c56e2ed8afdb2a3ae47c94a49b_img_20250918_005536.jpg)
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f04b1cec2d9a26fd08602bf7714ef10daa74339f_img_20250918_005615.jpg)
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ae76c14ad8fa4410dda61a36cf5b1aab35527eac_img_20250918_005632.jpg)
+
+
+Yup, so i was free so i made the setup for filament to enter the extruder and find its way to the hotend, so i just setup the hotend, there wasnt much to setup in it but i realised that for some reason a tiny bulb like thing attached to one of the two wires of it was bulging out, so i had to dismantle it to figure out where it will go, once fixing it just ran the filament through it simulating the motor gear with my hand, no big deal - everything's working fine.
+![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/505798e455c192121550908396ffd467fd5ddcc0_img_20250918_014436.jpg)
+![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70c1d59c1e60e7aaead50958341358ab60ae628a_img_20250918_014510.jpg)
