@@ -1,3 +1,6 @@
+# nomad
+## nomad is a foldable bed slinger 3d printer which turns into a suitcase, everything made from scratch
+
 Made by @Manan
 Repository link - https://github.com/Manan-Coder/nomad
 
