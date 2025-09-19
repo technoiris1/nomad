@@ -125,3 +125,10 @@ So everything was going fine but the thing is that the motor has to be screwed o
 Yup, so i was free so i made the setup for filament to enter the extruder and find its way to the hotend, so i just setup the hotend, there wasnt much to setup in it but i realised that for some reason a tiny bulb like thing attached to one of the two wires of it was bulging out, so i had to dismantle it to figure out where it will go, once fixing it just ran the filament through it simulating the motor gear with my hand, no big deal - everything's working fine.
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/505798e455c192121550908396ffd467fd5ddcc0_img_20250918_014436.jpg)
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70c1d59c1e60e7aaead50958341358ab60ae628a_img_20250918_014510.jpg)
+
+
+## day 2
+yup so last night i setup the extruder and hotend, today i made some setup for screwing the extruder to the rail, it failed tho - i took wrong dimensions and didn't check before as i was tired af but yeah i got it how to make things like this, now i have my last sem exam tomorrow, after that im gonna rush the build and target finish to be done in under 1.5 weeks. Also yeah we finally getting the main board skr mini e3 v3 in a week or some. ah man getting this board here in india was hell, there is only one vendor who sells it and even they had it out of stock for the past 2.5 months, finally getting it now. ah
+
+![rail](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b9f626fabc198dd5f2514730be477da7967c1c75_img_20250919_234628.jpg)
+![rail](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db11ca2870e48cf5c7191b42c349d197effbf61f_img_20250919_234657.jpg)
