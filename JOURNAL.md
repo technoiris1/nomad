@@ -132,3 +132,8 @@ yup so last night i setup the extruder and hotend, today i made some setup for s
 
 ![rail](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b9f626fabc198dd5f2514730be477da7967c1c75_img_20250919_234628.jpg)
 ![rail](https://hc-cdn.hel1.your-objectstorage.com/s/v3/db11ca2870e48cf5c7191b42c349d197effbf61f_img_20250919_234657.jpg)
+
+
+
+## day 3
+ok so today im making a setup for extruder to completely ride the rail block. for this im cad modelling a structure with holes to be screwed with the rail, holes and platform to be screwed to the extruder and a lil structure at the top to be joined with the gt2 belt.
