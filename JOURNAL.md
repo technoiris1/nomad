@@ -137,3 +137,8 @@ yup so last night i setup the extruder and hotend, today i made some setup for s
 
 ## day 3
 ok so today im making a setup for extruder to completely ride the rail block. for this im cad modelling a structure with holes to be screwed with the rail, holes and platform to be screwed to the extruder and a lil structure at the top to be joined with the gt2 belt.
+
+ok so the thing is that i was able to find a dimensions chart of the rail block so i just made the holes for screws according to it but i wasn't able to find one for the hotend holder as its just a acrylic cutout. So i took a measuring tape and tried to measure it the best i could, then i sketched it out on a cardboard piece and tried to screw it, once i was satisfied - i proceeded with cad, and as expected first few didnt succeed but the third print was able to satisfy the requirements. so yeah now we are done with the hotend setup too.
+![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/904a5fbbfb7f58e1ebd6da66724fe38cd80eb2c0_img_20250925_230342.jpg)
+![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9ace361c2c6393c3d68dbee315cc832a35c6671_img_20250925_223916947.jpg)
+![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ceca505c6cf3a806e27b691e00402cea9a5c5b4_img_20250925_230454.jpg)
