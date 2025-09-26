@@ -148,3 +148,9 @@ ok so i made the things for the z axis, its done now, i cad modelled a setup for
 other than that i made clamp mounts for the nema stepper motors, i found a few online on printables.com etc. but they werent fulfilling the job as i want a 2 rod setup, so i cad modelled it from scratch and then printed, i made two models for it and then decided to stick with the second one.
 then i made some test runs, so i just screwed it on the extrusion and then screwed in the motor, then i fixed the coupler on the motor head and put a threaded rod in it, and then i put a smooth normal rod in the other holder - and yeah it worked well.
 so right now we have our z gantry complete, x 20% complete and y 50% complete.
+
+
+
+## day 6
+ok so we finally got the board, the skr mini e3 v3, the peak, so now the build is gonna go on full on speed, like we got everything now so there is no reason this thing can get delayed now. Today i setup some of the wires for it and then like made some circuits with the main power. I tried plugging it in the usd with my pc to test it out but it didnt really work for some reason, i found out some issues online regarding this thing and like the board sometimes just doesnt work with usb, so im gonna power it directly from power supply and flash in the firmware using a sd card. So i made the connections between the board and the power unit, the hotend and the heatbed and the motors. I still didnt power it as im getting a multimeter in like 2-3 days so like its better to be safe than your board going boom. so yeah. thats it. too much wires. lowkey got scared.
+[skr mini](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b249ea94ec3a691d32bb208fb3b1122ef17c78b1_whatsapp_image_2025-09-24_at_10.09.45.jpeg)
