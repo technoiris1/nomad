@@ -142,3 +142,9 @@ ok so the thing is that i was able to find a dimensions chart of the rail block 
 ![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/904a5fbbfb7f58e1ebd6da66724fe38cd80eb2c0_img_20250925_230342.jpg)
 ![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9ace361c2c6393c3d68dbee315cc832a35c6671_img_20250925_223916947.jpg)
 ![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ceca505c6cf3a806e27b691e00402cea9a5c5b4_img_20250925_230454.jpg)
+
+## day 4,5
+ok so i made the things for the z axis, its done now, i cad modelled a setup for keeping the rods in place at the top first, so its just a strip with two holes for the rods to be inserted in. then i 3d printed it and yeah it indeed works well.
+other than that i made clamp mounts for the nema stepper motors, i found a few online on printables.com etc. but they werent fulfilling the job as i want a 2 rod setup, so i cad modelled it from scratch and then printed, i made two models for it and then decided to stick with the second one.
+then i made some test runs, so i just screwed it on the extrusion and then screwed in the motor, then i fixed the coupler on the motor head and put a threaded rod in it, and then i put a smooth normal rod in the other holder - and yeah it worked well.
+so right now we have our z gantry complete, x 20% complete and y 50% complete.
