@@ -149,12 +149,13 @@ other than that i made clamp mounts for the nema stepper motors, i found a few o
 then i made some test runs, so i just screwed it on the extrusion and then screwed in the motor, then i fixed the coupler on the motor head and put a threaded rod in it, and then i put a smooth normal rod in the other holder - and yeah it worked well.
 so right now we have our z gantry complete, x 20% complete and y 50% complete.
 
-first design -
+### first design -
 
 ![holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c82a6090023c3e2bd63e6a15703c17a37e0e3483_img_20250927_005431.jpg)
 
 but it wasnt that good, as it was taking too much space and felt like i could improve it, so i reversed the whole thing and made something like this.
-second design -
+<br>
+### second design -
 
 ![holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b188378c177ae9baedde692600e2aa4c41d907dc_img_20250927_005321.jpg)
 ![holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2ddec76bf4dd3b6d5ee32b9fb700f5c7f5134fbc_img_20250927_005352.jpg)
