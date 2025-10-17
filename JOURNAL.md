@@ -179,3 +179,7 @@ today i just setup the power unit and got it running, we are using a 480 watt 24
 
 ## day 8
 Today i connected the power system to the skr mini e3 v3 board, its working fine, then i flashed marlin into it - it worked on the 3rd attempt and now we have the firmware.CUR in the sd card.
+
+## day 9
+I just connected motors and installed pronterface on my pc, then i spent an hour setting it up and connecting it to the board.
+After that i just pushed a few marlin commands and yeah, the are not working that well - the motors are lagging but atleast they are working so yeah.
