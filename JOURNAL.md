@@ -172,3 +172,10 @@ ok so we finally got the board, the skr mini e3 v3, the peak, so now the build i
 
 
 ![skr mini](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b249ea94ec3a691d32bb208fb3b1122ef17c78b1_whatsapp_image_2025-09-24_at_10.09.45.jpeg)
+
+
+## day 7
+today i just setup the power unit and got it running, we are using a 480 watt 24V brick.
+
+## day 8
+Today i connected the power system to the skr mini e3 v3 board, its working fine, then i flashed marlin into it - it worked on the 3rd attempt and now we have the firmware.CUR in the sd card.
