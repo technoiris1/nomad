@@ -183,3 +183,6 @@ Today i connected the power system to the skr mini e3 v3 board, its working fine
 ## day 9
 I just connected motors and installed pronterface on my pc, then i spent an hour setting it up and connecting it to the board.
 After that i just pushed a few marlin commands and yeah, the are not working that well - the motors are lagging but atleast they are working so yeah.
+
+## day 10
+Today im starting to make the frame, printed all the parts and now the frame is coming up
