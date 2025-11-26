@@ -105,7 +105,7 @@ here's a sneak peek -
 
 ok ok so now I swear to god im going to be consistent with build and i set a goal to get this printer printing things within next two weeks.
 
-## day 1
+## entry 1
 
 ok so before this i made some really slow turtle like process, so like i set up some basic things and made some clamps for stepper motors and a few other things, cuz like they ones from the marketplaces were really expensive for broke me, so i made some wood working and glued the wooden parts together, and in middle out of nowhere i got a 3d printer, yeah, so i got a bambu labs a1 mini and that made my life a lot easier. I made a lot of parts off it and yeah life is good now.
 
@@ -127,7 +127,7 @@ Yup, so i was free so i made the setup for filament to enter the extruder and fi
 ![extruder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70c1d59c1e60e7aaead50958341358ab60ae628a_img_20250918_014510.jpg)
 
 
-## day 2
+## entry 2
 yup so last night i setup the extruder and hotend, today i made some setup for screwing the extruder to the rail, it failed tho - i took wrong dimensions and didn't check before as i was tired af but yeah i got it how to make things like this, now i have my last sem exam tomorrow, after that im gonna rush the build and target finish to be done in under 1.5 weeks. Also yeah we finally getting the main board skr mini e3 v3 in a week or some. ah man getting this board here in india was hell, there is only one vendor who sells it and even they had it out of stock for the past 2.5 months, finally getting it now. ah
 
 ![rail](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b9f626fabc198dd5f2514730be477da7967c1c75_img_20250919_234628.jpg)
@@ -135,7 +135,7 @@ yup so last night i setup the extruder and hotend, today i made some setup for s
 
 
 
-## day 3
+## entry 3
 ok so today im making a setup for extruder to completely ride the rail block. for this im cad modelling a structure with holes to be screwed with the rail, holes and platform to be screwed to the extruder and a lil structure at the top to be joined with the gt2 belt.
 
 ok so the thing is that i was able to find a dimensions chart of the rail block so i just made the holes for screws according to it but i wasn't able to find one for the hotend holder as its just a acrylic cutout. So i took a measuring tape and tried to measure it the best i could, then i sketched it out on a cardboard piece and tried to screw it, once i was satisfied - i proceeded with cad, and as expected first few didnt succeed but the third print was able to satisfy the requirements. so yeah now we are done with the hotend setup too.
@@ -143,7 +143,7 @@ ok so the thing is that i was able to find a dimensions chart of the rail block 
 ![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9ace361c2c6393c3d68dbee315cc832a35c6671_img_20250925_223916947.jpg)
 ![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6ceca505c6cf3a806e27b691e00402cea9a5c5b4_img_20250925_230454.jpg)
 
-## day 4,5
+## entry 4
 ok so i made the things for the z axis, its done now, i cad modelled a setup for keeping the rods in place at the top first, so its just a strip with two holes for the rods to be inserted in. then i 3d printed it and yeah it indeed works well.
 other than that i made clamp mounts for the nema stepper motors, i found a few online on printables.com etc. but they werent fulfilling the job as i want a 2 rod setup, so i cad modelled it from scratch and then printed, i made two models for it and then decided to stick with the second one.
 then i made some test runs, so i just screwed it on the extrusion and then screwed in the motor, then i fixed the coupler on the motor head and put a threaded rod in it, and then i put a smooth normal rod in the other holder - and yeah it worked well.
@@ -166,7 +166,7 @@ but it wasnt that good, as it was taking too much space and felt like i could im
 ![endcaps](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f5aed66ee32371d561b9b17c8664933c1e250e12_img_20250927_005302.jpg)
 
 
-## day 6
+## entry 5
 ok so we finally got the board, the skr mini e3 v3, the peak, so now the build is gonna go on full on speed, like we got everything now so there is no reason this thing can get delayed now. Today i setup some of the wires for it and then like made some circuits with the main power. I tried plugging it in the usd with my pc to test it out but it didnt really work for some reason, i found out some issues online regarding this thing and like the board sometimes just doesnt work with usb, so im gonna power it directly from power supply and flash in the firmware using a sd card. So i made the connections between the board and the power unit, the hotend and the heatbed and the motors. I still didnt power it as im getting a multimeter in like 2-3 days so like its better to be safe than your board going boom. so yeah. thats it. too much wires. lowkey got scared.
 
 
@@ -174,15 +174,17 @@ ok so we finally got the board, the skr mini e3 v3, the peak, so now the build i
 ![skr mini](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b249ea94ec3a691d32bb208fb3b1122ef17c78b1_whatsapp_image_2025-09-24_at_10.09.45.jpeg)
 
 
-## day 7
+## entry 6
 today i just setup the power unit and got it running, we are using a 480 watt 24V brick.
 
-## day 8
+## entry 7
 Today i connected the power system to the skr mini e3 v3 board, its working fine, then i flashed marlin into it - it worked on the 3rd attempt and now we have the firmware.CUR in the sd card.
 
-## day 9
+## entry 8
 I just connected motors and installed pronterface on my pc, then i spent an hour setting it up and connecting it to the board.
-After that i just pushed a few marlin commands and yeah, the are not working that well - the motors are lagging but atleast they are working so yeah.
+After that i just pushed a few marlin commands and yeah, they are not working that well - the motors are lagging but atleast they are working so yeah.
 
-## day 10
+## entry 9
 Today im starting to make the frame, printed all the parts and now the frame is coming up
+
+## entry 10
