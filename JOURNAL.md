@@ -185,8 +185,7 @@ I just connected motors and installed pronterface on my pc, then i spent an hour
 After that i just pushed a few marlin commands and yeah, they are not working that well - the motors are lagging but atleast they are working so yeah.
 
 ## entry 9
-Today im starting to make the frame, printed all the parts and now the frame is coming up.
+Today im starting to make the frame, printed all the parts and now the frame is coming up
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5c25923d2b568ca5ecdb311b08ea9887f90fc35_1000006031.jpg)
-![frame2]
-(https://hc-cdn.hel1.your-objectstorage.com/s/v3/385689badbaa093a35142d1cf2639438c4828f35_1000006030.jpg)
+![frame2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/385689badbaa093a35142d1cf2639438c4828f35_1000006030.jpg)
 ## entry 10
