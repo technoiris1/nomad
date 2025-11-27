@@ -234,3 +234,10 @@ Made a setup for the whole frame, whole thing is done now, the base is done, the
 ## entry 16
 made a setup for the hotend on the rail, used 3d printed apparatus to set up initially and epoxy-tape to fix it and give support
 ![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c9e64d0c338dcf903372b2f1b32c989f9d0b426d_whatsapp_image_2025-11-27_at_01.01.46.jpeg)
+
+
+## entry 17
+modelled a holder for the whole x gantry, its gonna hold an extrusion which will hold the rail and the whole gantry, it looks really cool, like it has two hands one to be screwed to the rod to move up down and one for bearing to support the whole thing. these two arms look like wings.
+
+![holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dacd7950524210cebd8792ddd5bc8b597c568bc3_whatsapp_image_2025-11-27_at_01.36.26.jpeg)
+![holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c66a332ae2339323ce705b164363398709743bad_whatsapp_image_2025-11-27_at_01.36.35.jpeg)
