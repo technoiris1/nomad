@@ -220,3 +220,12 @@ i made a setup for the y axis motor and the belt but the thing is that the belt 
 https://github.com/user-attachments/assets/385a820c-13e0-4469-b972-cfce92615b53
 
 just made a setup for the y gantry, the belt is working along with the telescopic rails doing their work. you just have to pull them out a bit and then you can just get them out to align the center with the hotend axis. This is really reliable, i havent screwed or fixed the rails on the body yet by any means, they are just lying on it but it doesnt feel like it would come off, so yeah really good setup, happy to see the thing come out the way i expected and wanted.
+
+
+## entry 15
+
+Made a setup for the whole frame, whole thing is done now, the base is done, the upright frame and everything, i used 3 side joints for most parts where 3 corners were to be joined and 3d printed some others, and used proper solid metal joints for the critical joints.
+
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d263be901d5600d5a1c88fb82acc0260934c8387_whatsapp_image_2025-11-27_at_01.02.46.jpeg)
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/976c6b23015e84fbde858525a5a38a4f09b9e975_whatsapp_image_2025-11-27_at_01.02.13.jpeg)
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a362fd5d8915adc2a6dd9a7e4b03350866cbdd86_whatsapp_image_2025-11-27_at_01.02.04.jpeg)
