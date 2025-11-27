@@ -188,8 +188,9 @@ After that i just pushed a few marlin commands and yeah, they are not working th
 Today im starting to make the frame, printed all the parts and now the frame is coming up
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5c25923d2b568ca5ecdb311b08ea9887f90fc35_1000006031.jpg)
 ![frame2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/385689badbaa093a35142d1cf2639438c4828f35_1000006030.jpg)
-## entry 10
 
+
+## entry 10
 today i 3d printed a case for my skr mini e3 and screwed it in, after that just put all the wired in like motors, bed, hotend fans and all, yeah its seems good.
 I was trying to test the motors but they were kinda vibrating and gave a feel that they are gonna break down any moment, it wasnt smooth at all. so it was either some problem with the motors, or the board or something in between, i would've been pretty cooked if it were any of the two first cases but luckily it was the third, the cable had some wires mismatched and needed to be swapped, so i took them out of the jst connector and swapped, and it worked well within the next try. its going good rn all the motors are good working fine i tested the bed and heated it and it worked pretty well, the only problem with it i can see rn is that it as a thermistor on top and its soldered to the soldering patches are also there, so i seriously dont know how am i gonna fix it and have a bed on it totally connected to it physically. so yeah, also i heated and tested the hotend, its working well, i burnt myself a few times and my right index finger lowkey hurts when im typing this but yeah its good, atleast it works.
 ![skr](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d27b56b110f028117668aee91d7e6c4195ccef9e_whatsapp_image_2025-11-27_at_00.59.54.jpeg)
@@ -199,3 +200,9 @@ I was trying to test the motors but they were kinda vibrating and gave a feel th
 ## entry 11
 yeah so while testing things today i realised that the firmware is getting corrupted again and again, like the status led in the board is supposed to be blinking if everything is fine but it just goes off to a solid persistent glow after a while, again i thought maybe motor drivers are cooked or smth else. so i just got all the wires out and reflashed the firmware, then one by one put each wire to see when it goes off - it goes off when i put in the hotend thermistor wire, which is kinda scary, idk why. So i took the hotend out and removed the screw of the thermistor, then saw that the covering for the wires got cut, so both the wires were coming in contact with the screw which was ruining the circuit, so i put in some insulation tape and now it works fine.
 hardware debugging :O
+
+## entry 12
+yeah so i realised that the hold i made for my z gantry motor was too thin, like it was sagging when i screwed the motor so i iterated on the design and made it being able to handle more weight, so yeah it seems good now, also made a setup for the extruder and tested it along with the hotend.
+so it works well now, not very problematic so it looks good.
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad69a763ce96ea230abc74a25f1e46643a8d615a_whatsapp_image_2025-11-27_at_01.00.12.jpeg)
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/65e4776a2242b03c732f6bc88bc57f41b7ac2eed_whatsapp_image_2025-11-27_at_01.00.30.jpeg)
