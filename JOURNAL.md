@@ -216,7 +216,5 @@ i made a setup for the y axis motor and the belt but the thing is that the belt 
 
 
 ## entry 14
-<video controls width="600">
-  <source src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/cf140e5407afef41860379a81566d2b73ae69e43_whatsapp_video_2025-11-27_at_01.01.43.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/cf140e5407afef41860379a81566d2b73ae69e43_whatsapp_video_2025-11-27_at_01.01.43.mp4
