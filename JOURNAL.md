@@ -229,3 +229,8 @@ Made a setup for the whole frame, whole thing is done now, the base is done, the
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d263be901d5600d5a1c88fb82acc0260934c8387_whatsapp_image_2025-11-27_at_01.02.46.jpeg)
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/976c6b23015e84fbde858525a5a38a4f09b9e975_whatsapp_image_2025-11-27_at_01.02.13.jpeg)
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a362fd5d8915adc2a6dd9a7e4b03350866cbdd86_whatsapp_image_2025-11-27_at_01.02.04.jpeg)
+
+
+## entry 16
+made a setup for the hotend on the rail, used 3d printed apparatus to set up initially and epoxy-tape to fix it and give support
+![hotend](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c9e64d0c338dcf903372b2f1b32c989f9d0b426d_whatsapp_image_2025-11-27_at_01.01.46.jpeg)
