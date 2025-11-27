@@ -206,7 +206,7 @@ yeah so i realised that the hold i made for my z gantry motor was too thin, like
 so it works well now, not very problematic so it looks good.
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ad69a763ce96ea230abc74a25f1e46643a8d615a_whatsapp_image_2025-11-27_at_01.00.12.jpeg)
 ![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/65e4776a2242b03c732f6bc88bc57f41b7ac2eed_whatsapp_image_2025-11-27_at_01.00.30.jpeg)
-
+![frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6379fd192491966005ad7b34c4e3f6832e262f85_whatsapp_image_2025-11-27_at_01.00.19.jpeg)
 
 
 ## entry 13
