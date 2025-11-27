@@ -219,5 +219,4 @@ i made a setup for the y axis motor and the belt but the thing is that the belt 
 
 https://github.com/user-attachments/assets/385a820c-13e0-4469-b972-cfce92615b53
 
-
-
+just made a setup for the y gantry, the belt is working along with the telescopic rails doing their work. you just have to pull them out a bit and then you can just get them out to align the center with the hotend axis. This is really reliable, i havent screwed or fixed the rails on the body yet by any means, they are just lying on it but it doesnt feel like it would come off, so yeah really good setup, happy to see the thing come out the way i expected and wanted.
