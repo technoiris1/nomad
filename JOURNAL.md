@@ -198,3 +198,4 @@ I was trying to test the motors but they were kinda vibrating and gave a feel th
 
 ## entry 11
 yeah so while testing things today i realised that the firmware is getting corrupted again and again, like the status led in the board is supposed to be blinking if everything is fine but it just goes off to a solid persistent glow after a while, again i thought maybe motor drivers are cooked or smth else. so i just got all the wires out and reflashed the firmware, then one by one put each wire to see when it goes off - it goes off when i put in the hotend thermistor wire, which is kinda scary, idk why. So i took the hotend out and removed the screw of the thermistor, then saw that the covering for the wires got cut, so both the wires were coming in contact with the screw which was ruining the circuit, so i put in some insulation tape and now it works fine.
+hardware debugging :O
