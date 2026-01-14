@@ -248,3 +248,7 @@ then i just mounted it on the z gantry and yeah thats pretty much it, we're clos
 
 ## entry 19
 today i setup the endstops, it was hectic man, the thing is that i have 3 pin endstops and the skr mini e3 has a 2 pin socket, so i had to setup it to work as a 2 pin so i was trying that but the one i was using was broken, so i was just smashing my hand on the table for 5 hours thinking why is this thing not working while trying all possible combinations, so yeah lol
+
+
+## entry 20
+printed a benchy!!!!
