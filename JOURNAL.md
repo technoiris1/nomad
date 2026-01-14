@@ -246,3 +246,5 @@ modelled a holder for the whole x gantry, its gonna hold an extrusion which will
 So today i locked in and assemled the x gantry, so basically designed and printed the holders for the stepper motor and the pully, put the belt and made a clamp setup with the rail bracket thingy.
 then i just mounted it on the z gantry and yeah thats pretty much it, we're close to printing the first thing with the printer.
 
+## entry 19
+today i setup the endstops, it was hectic man, the thing is that i have 3 pin endstops and the skr mini e3 has a 2 pin socket, so i had to setup it to work as a 2 pin so i was trying that but the one i was using was broken, so i was just smashing my hand on the table for 5 hours thinking why is this thing not working while trying all possible combinations, so yeah lol
