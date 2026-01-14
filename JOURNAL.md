@@ -241,3 +241,8 @@ modelled a holder for the whole x gantry, its gonna hold an extrusion which will
 
 ![holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dacd7950524210cebd8792ddd5bc8b597c568bc3_whatsapp_image_2025-11-27_at_01.36.26.jpeg)
 ![holder](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c66a332ae2339323ce705b164363398709743bad_whatsapp_image_2025-11-27_at_01.36.35.jpeg)
+
+## entry 18
+So today i locked in and assemled the x gantry, so basically designed and printed the holders for the stepper motor and the pully, put the belt and made a clamp setup with the rail bracket thingy.
+then i just mounted it on the z gantry and yeah thats pretty much it, we're close to printing the first thing with the printer.
+
