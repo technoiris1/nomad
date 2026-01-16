@@ -252,3 +252,4 @@ today i setup the endstops, it was hectic man, the thing is that i have 3 pin en
 
 ## entry 20
 printed a benchy!!!!
+![benchy](imgs/benchy.jpeg)
